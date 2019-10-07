@@ -7,7 +7,7 @@ This web app was primarily inspired by John Cage's piece *Reunion*, performed wi
 The PGN is grabbed from the Javascript chessboard and converted into music, with each square corresponding to a pre-determined note. The A file corresponds to the A major scale, the B file to the B major scale, and so on, with the H file corresponding to Bb major. 
 
 # Other Libraries
-This web app uses the following libraries for chess board and MIDI rendering:
+This web app uses the following libraries for chessboard and MIDI rendering:
 * [Chessboard.js](https://github.com/oakmac/chessboardjs)
 * [MIDI.js](https://github.com/mudcube/MIDI.js/)
 * [jsmidi (in a slightly edited form)](https://github.com/sergi/jsmidi)
