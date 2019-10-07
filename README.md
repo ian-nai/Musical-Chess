@@ -10,4 +10,4 @@ The PGN is grabbed from the Javascript chessboard and converted into music, with
 This web app uses the following libraries for chess board and MIDI rendering:
 * [Chessboard.js](https://github.com/oakmac/chessboardjs)
 * [MIDI.js](https://github.com/mudcube/MIDI.js/)
-* [jsmidgen (in a slightly edited form)](https://github.com/dingram/jsmidgen)
+* [jsmidi (in a slightly edited form)](https://github.com/sergi/jsmidi)
