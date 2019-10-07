@@ -1026,5 +1026,6 @@ $("#btn-save").click( function() {
 });
  spitMIDI();
  find_replace();
+ saveMIDI()
  
 });
